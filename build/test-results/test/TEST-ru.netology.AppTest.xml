@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.netology.AppTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2021-06-12T14:40:56" hostname="DESKTOP-1BN1GRH" time="0.151">
+  <properties/>
+  <testcase name="calculateCircleArea_validArgument_success()" classname="ru.netology.AppTest" time="0.055"/>
+  <testcase name="calculateCircleLength_notPositiveNumber()" classname="ru.netology.AppTest" time="0.003"/>
+  <testcase name="calculateCircleArea_notPositiveNumber()" classname="ru.netology.AppTest" time="0.009"/>
+  <testcase name="addToString_validArgument_success()" classname="ru.netology.AppTest" time="0.033"/>
+  <testcase name="calculateCircleLength_notNumberArgument_doesNotThrowsException()" classname="ru.netology.AppTest" time="0.022"/>
+  <testcase name="calculateCircleLength_validArgument_success()" classname="ru.netology.AppTest" time="0.006"/>
+  <testcase name="calculateCircleArea_notNumberArgument_doesNotThrowsException()" classname="ru.netology.AppTest" time="0.004"/>
+  <system-out><![CDATA[Running tests
+Starting new test
+Test complete
+Starting new test
+Test complete
+Starting new test
+Test complete
+Starting new test
+Test complete
+Starting new test
+Р’РІРµРґРµРЅРѕ РЅРµ С‡РёСЃР»Рѕ
+Test complete
+Starting new test
+Test complete
+Starting new test
+Р’РІРµРґРµРЅРѕ РЅРµ С‡РёСЃР»Рѕ
+Test complete
+Tests complete
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
