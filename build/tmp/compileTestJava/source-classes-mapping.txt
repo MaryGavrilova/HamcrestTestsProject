@@ -1,2 +1,0 @@
-ru/netology/AppTest.java
- ru.netology.AppTest
